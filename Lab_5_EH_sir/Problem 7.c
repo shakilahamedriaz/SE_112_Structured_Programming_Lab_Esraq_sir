@@ -1,3 +1,4 @@
+//Write a program that search a specific element from an array.
 #include<stdio.h>
 int main()
 {
